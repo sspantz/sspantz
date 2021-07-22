@@ -7,7 +7,7 @@ My research/study interests include Cryptology, Algorithms, Software Engineering
 
 JavaScript and C are my favorite programming lauguages, and I use them all the time. I think RUST will be the next.
 
-English communication is preferred(for study purpose), although I'm not a native English speaker and my English level is relatively low.
+English is preferred(for study purpose), although I'm not a native English speaker and my English level is relatively low.
 
 Last but no least, it's perfect to concat me in Cantonese and Mandrain.
 
