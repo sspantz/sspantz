@@ -7,10 +7,6 @@ My research/study interests include Cryptology, Algorithms, Software Engineering
 
 JavaScript and C are my favorite programming lauguages, and I use them all the time. I think RUST will be the next.
 
-English is preferred(for study purpose), although I'm not a native English speaker and my English level is relatively low.
-
-Last but no least, it's perfect to concat me in Cantonese and Mandrain.
-
 <!-- **sspantz/sspantz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
