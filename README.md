@@ -12,7 +12,7 @@ JavaScript and C are my favorite programming lauguages, and I use them all the t
 <!-- Here are some ideas to get you started: -->
 
 
-- 🔭 I’m currently creating apis by expressjs.
+- 🔭 I’m currently creating apis with expressjs.
 - 🌱 I’m currently learning [NodeJS, FP, TDD, EDD].
 - 🤔 I’m looking for help with NodeJS.
 - 💬 Ask me about anything, I'm happy to help.
