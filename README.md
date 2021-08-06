@@ -20,8 +20,9 @@ JavaScript and C are my favorite programming lauguages, and I use them all the t
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ... 
 
 [![sspantz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sspantz&count_private=true&show_icons=true&theme=radical
 )
 ](https://github.com/anuraghazra/github-readme-stats)
+-->
