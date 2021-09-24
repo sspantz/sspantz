@@ -26,3 +26,9 @@ JavaScript and C are my favorite programming lauguages, and I use them all the t
 )
 ](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+```bash
+# docker settings
+export FM="\nID\t{{.ID}}\nIMAGE\t{{.Image}}\nCOMMAND\t{{.Command}}\nCREATED\t{{.RunningFor}}\nSTATUS\t{{.Status}}\nPORTS\t{{.Ports}}\nNAMES\t{{.Names}}"
+alias 'dockerpsv'='docker ps --format $FM'
+```
