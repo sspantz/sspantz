@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 
-I'm a Fullstack Developer.
+I'm now a Fullstack Developer.
 
